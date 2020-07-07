@@ -1,2 +1,2 @@
-# SCQ
-a gitbook repo
+# Initial page
+
