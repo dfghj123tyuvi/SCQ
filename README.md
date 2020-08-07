@@ -26,10 +26,10 @@ _Copy right from Ander._
 _All rights reserved._
 {% endhint %}
 
-QQ:<a href=“mailto:2729208865@qq.com”>2729208865</a>                                    
-Gmail:<a href=“mailto:ande22779@gmail.com”>ande22779@gmail.com</a>    
+QQ:<a href="mailto:2729208865@qq.com">2729208865</a>                                    
+Gmail:<a href="mailto:ande22779@gmail.com">ande22779@gmail.com</a>    
 
-Ander
+@Ander
 
 2020.8.7
 
