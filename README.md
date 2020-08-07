@@ -26,9 +26,9 @@ _Copy right from Ander._
 _All rights reserved._
 {% endhint %}
 
-QQ:**2729208865**                                    Gmail:**ande22779@gmail.com**
+QQ:<a href=“mailto:2729208865@qq.com”>2729208865</a>                                    Gmail:<a href=“mailto:ande22779@gmail.com”>ande22779@gmail.com</a>    
 
 Ander
 
-2020.7.7
+2020.8.7
 
